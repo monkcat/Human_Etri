@@ -1,3 +1,7 @@
 # Dataset not upload
 data/
 data_integrated/
+
+# cache data
+.ipynb_checkpoints
+__pycache__
